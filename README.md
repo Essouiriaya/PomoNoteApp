@@ -23,11 +23,11 @@
 <h2>📦 Installation</h2>
 <ol>
   <li>Cloner ce dépôt :
-    <pre><code>git clone https://github.com/ton-nom/pomonote.git</code></pre>
+    <pre><code>git clone https://github.com/Essouiriaya/PomoNoteApp.git</code></pre>
   </li>
   <li>Lancer XAMPP et démarrer <strong>Apache</strong> et <strong>MySQL</strong>.</li>
-  <li>Créer une base de données nommée <code>pomonote</code> dans <code>phpMyAdmin</code> et importer le fichier <code>database.sql</code>.</li>
-  <li>Configurer les identifiants de la base de données dans le fichier de configuration (<code>config.php</code> ou <code>database.py</code>).</li>
+  <li>Créer une base de données nommée <code>projectpy_db</code> dans <code>phpMyAdmin</code>.</li>
+  <li>Configurer les identifiants de la base de données dans le fichier de configuration (<code>database.py</code>).</li>
   <li>Lancer l'application depuis votre terminal ou IDE.</li>
 </ol>
 
